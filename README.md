@@ -1,3 +1,12 @@
+# [Arrow Funk Forever](https://github.com/BeastlyGhost/Forever-ArrowFunk-Public)
+while still rather unfinished, here's a version of the Arrow Funk Mod, completely ported to Forever Engine
+expect a full playable and completely finished build soon!
+
+## Current Progress: around 90-95%
+
+if you find any issues be sure to write them down here on github with the issues tab, or contact me on Discord, 
+BeastlyGhost♧#9035
+
 # [Forever Engine](https://github.com/Yoshubs/FunkinForever)
 An open-source, quality of life and performance driven [Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371) mod engine!
 ----------------------------------------------
