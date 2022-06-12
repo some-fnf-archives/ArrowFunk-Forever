@@ -1,0 +1,5 @@
+cheer 0 57
+sad 0 -12
+danceLeft 0 -9
+danceRight 0 -9
+drink 0 -5

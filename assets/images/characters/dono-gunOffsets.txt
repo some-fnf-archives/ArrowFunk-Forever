@@ -1,0 +1,11 @@
+idle -4 -2
+singUP -11 71
+singRIGHT -30 0
+singLEFT -2 -15
+singDOWN -20 -37
+singUP-shoot -19 -12
+singRIGHT-shoot 82 104
+singLEFT-shoot 70 189
+singDOWN-shoot 21 204
+out -25 3
+fail 74 -19

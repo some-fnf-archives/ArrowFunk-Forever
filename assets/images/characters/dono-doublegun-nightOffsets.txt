@@ -1,0 +1,11 @@
+idle -1 -2
+singUP 3 71
+singRIGHT -30 0
+singLEFT -2 -15
+singDOWN -20 -37
+singUP-shoot -19 27
+singRIGHT-shoot 96 104
+singLEFT-shoot 70 199
+singDOWN-shoot 111 204
+mic -17 8
+hey 47 121

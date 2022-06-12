@@ -1,0 +1,9 @@
+cheer 0 57
+sad 0 -12
+scared 0 -7
+spit 0 -11
+danceLeft 0 -5
+danceRight 0 -5
+danceLeft-alt 0 -9
+danceRight-alt 0 -9
+drink 0 -5

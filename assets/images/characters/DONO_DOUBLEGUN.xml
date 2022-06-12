@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DONO_DOUBLEGUN.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dono Down Note0000" x="0" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0001" x="0" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0002" x="633" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0003" x="633" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0004" x="1266" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0005" x="1266" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0006" x="1899" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0007" x="1899" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0008" x="1899" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0009" x="1899" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0010" x="1899" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0011" x="1899" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0012" x="1899" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0013" x="1899" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Down Note0014" x="1899" y="0" width="631" height="506"/>
+	<SubTexture name="Dono Fail0000" x="2532" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0001" x="2532" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0002" x="3293" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0003" x="3293" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0004" x="4054" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0005" x="4054" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0006" x="4815" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0007" x="4815" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0008" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0009" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0010" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0011" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0012" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0013" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0014" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0015" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0016" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0017" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Fail0018" x="5576" y="0" width="759" height="524"/>
+	<SubTexture name="Dono Idle Dance0000" x="6337" y="0" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0001" x="6873" y="0" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0002" x="7409" y="0" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0003" x="0" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0004" x="536" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0005" x="1072" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0006" x="1608" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0007" x="2144" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0008" x="2680" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0009" x="2680" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0010" x="3216" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0011" x="3216" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0012" x="3216" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0013" x="3216" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0014" x="3216" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0015" x="3216" y="539" width="534" height="537"/>
+	<SubTexture name="Dono Idle Dance0016" x="3216" y="539" width="534" height="537"/>
+	<SubTexture name="Dono NOTE LEFT0000" x="3752" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0001" x="3752" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0002" x="4349" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0003" x="4349" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0004" x="4946" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0005" x="4946" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0006" x="5543" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0007" x="5543" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0008" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0009" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0010" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0011" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0012" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0013" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0014" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0015" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0016" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0017" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0018" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono NOTE LEFT0019" x="6140" y="539" width="595" height="528"/>
+	<SubTexture name="Dono Note Down shoot0000" x="6737" y="539" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0001" x="6737" y="539" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0002" x="0" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0003" x="1068" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0004" x="2136" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0005" x="3204" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0006" x="4272" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0007" x="5340" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0008" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0009" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0010" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0011" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0012" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0013" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0014" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0015" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0016" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0017" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0018" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Down shoot0019" x="6408" y="1285" width="1066" height="744"/>
+	<SubTexture name="Dono Note Left shoot0000" x="0" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0001" x="0" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0002" x="1082" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0003" x="2164" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0004" x="3246" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0005" x="4328" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0006" x="4328" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0007" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0008" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0009" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0010" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0011" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0012" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0013" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0014" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0015" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0016" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0017" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Left shoot0018" x="5410" y="2031" width="1080" height="738"/>
+	<SubTexture name="Dono Note Right0000" x="6492" y="2031" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0001" x="6492" y="2031" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0002" x="7150" y="2031" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0003" x="7150" y="2031" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0004" x="0" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0005" x="0" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0006" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0007" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0008" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0009" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0010" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0011" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0012" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0013" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0014" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0015" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0016" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0017" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0018" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right0019" x="658" y="2771" width="656" height="539"/>
+	<SubTexture name="Dono Note Right shoot0000" x="1316" y="2771" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0001" x="1316" y="2771" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0002" x="2238" y="2771" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0003" x="3160" y="2771" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0004" x="4082" y="2771" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0005" x="5004" y="2771" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0006" x="5926" y="2771" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0007" x="6848" y="2771" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0008" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0009" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0010" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0011" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0012" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0013" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0014" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0015" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0016" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0017" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Right shoot0018" x="0" y="3420" width="920" height="647"/>
+	<SubTexture name="Dono Note Up shoot0000" x="922" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0001" x="922" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0002" x="1837" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0003" x="2752" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0004" x="2752" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0005" x="3667" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0006" x="3667" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0007" x="4582" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0008" x="4582" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0009" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0010" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0011" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0012" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0013" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0014" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0015" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0016" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0017" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0018" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Note Up shoot0019" x="5497" y="3420" width="913" height="570"/>
+	<SubTexture name="Dono Out0000" x="6412" y="3420" width="636" height="543"/>
+	<SubTexture name="Dono Out0001" x="6412" y="3420" width="636" height="543"/>
+	<SubTexture name="Dono Out0002" x="7050" y="3420" width="636" height="543"/>
+	<SubTexture name="Dono Out0003" x="7050" y="3420" width="636" height="543"/>
+	<SubTexture name="Dono Out0004" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0005" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0006" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0007" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0008" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0009" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0010" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0011" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0012" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0013" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0014" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0015" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Out0016" x="0" y="4069" width="636" height="543"/>
+	<SubTexture name="Dono Up note0000" x="638" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0001" x="638" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0002" x="1178" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0003" x="1178" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0004" x="1718" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0005" x="1718" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0006" x="2258" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0007" x="2258" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0008" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0009" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0010" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0011" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0012" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0013" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0014" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0015" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0016" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0017" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0018" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono Up note0019" x="2798" y="4069" width="538" height="611"/>
+	<SubTexture name="Dono hey0000" x="3338" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0001" x="4026" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0002" x="4026" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0003" x="4714" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0004" x="4714" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0005" x="5402" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0006" x="5402" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0007" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0008" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0009" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0010" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0011" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0012" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0013" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0014" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0015" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0016" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0017" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0018" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0019" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0020" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0021" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0022" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0023" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0024" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0025" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0026" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0027" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono hey0028" x="6090" y="4069" width="686" height="660"/>
+	<SubTexture name="Dono mic0000" x="6778" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0001" x="6778" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0002" x="7300" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0003" x="7300" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0004" x="7300" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0005" x="7300" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0006" x="7300" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0007" x="7300" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0008" x="7300" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0009" x="7300" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0010" x="7300" y="4069" width="520" height="547"/>
+	<SubTexture name="Dono mic0011" x="0" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0012" x="0" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0013" x="522" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0014" x="522" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0015" x="1044" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0016" x="1044" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0017" x="1566" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0018" x="1566" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0019" x="2088" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0020" x="2088" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0021" x="2610" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0022" x="2610" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0023" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0024" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0025" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0026" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0027" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0028" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0029" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0030" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0031" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0032" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0033" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0034" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0035" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0036" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0037" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0038" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0039" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0040" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0041" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0042" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0043" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0044" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0045" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0046" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0047" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0048" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0049" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0050" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0051" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0052" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0053" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0054" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0055" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0056" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0057" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0058" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0059" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0060" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0061" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0062" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0063" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0064" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0065" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0066" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0067" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0068" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0069" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0070" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0071" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0072" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0073" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0074" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0075" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0076" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0077" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0078" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0079" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0080" x="3132" y="4731" width="520" height="547"/>
+	<SubTexture name="Dono mic0081" x="3132" y="4731" width="520" height="547"/>
+</TextureAtlas>

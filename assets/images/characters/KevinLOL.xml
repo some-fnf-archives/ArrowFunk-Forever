@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KevinLOL.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KEVIN Cheer0000" x="0" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0001" x="892" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0002" x="1784" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0003" x="2676" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0004" x="3568" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0005" x="4460" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0006" x="5352" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0007" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0008" x="5352" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0009" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0010" x="5352" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0011" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0012" x="5352" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0013" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0014" x="5352" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0015" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0016" x="7136" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0017" x="0" y="599" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0018" x="892" y="599" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0019" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0020" x="5352" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0021" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0022" x="5352" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0023" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0024" x="5352" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0025" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0026" x="5352" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0027" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0028" x="5352" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Cheer0029" x="6244" y="0" width="890" height="597"/>
+	<SubTexture name="KEVIN Dancing Beat0000" x="1784" y="599" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0001" x="2683" y="599" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0002" x="3582" y="599" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0003" x="4481" y="599" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0004" x="5380" y="599" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0005" x="6279" y="599" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0006" x="7178" y="599" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0007" x="0" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0008" x="899" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0009" x="1798" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0010" x="2697" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0011" x="3596" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0012" x="2697" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0013" x="3596" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0014" x="2697" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0015" x="4495" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0016" x="5394" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0017" x="6293" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0018" x="7192" y="1202" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0019" x="0" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0020" x="899" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0021" x="1798" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0022" x="2697" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0023" x="3596" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0024" x="4495" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0025" x="5394" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0026" x="6293" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0027" x="5394" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0028" x="6293" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Dancing Beat0029" x="5394" y="1805" width="897" height="601"/>
+	<SubTexture name="KEVIN Down Note0000" x="7192" y="1805" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0001" x="0" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0002" x="899" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0003" x="1798" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0004" x="2697" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0005" x="3596" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0006" x="4495" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0007" x="5394" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0008" x="6293" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0009" x="5394" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0010" x="6293" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0011" x="5394" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0012" x="6293" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0013" x="5394" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Down Note0014" x="6293" y="2408" width="897" height="570"/>
+	<SubTexture name="KEVIN Right Note0000" x="7192" y="2408" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0001" x="0" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0002" x="858" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0003" x="1716" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0004" x="2574" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0005" x="2574" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0006" x="3432" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0007" x="4290" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0008" x="5148" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0009" x="6006" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0010" x="6864" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0011" x="6006" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0012" x="6864" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0013" x="6006" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Right Note0014" x="6864" y="3001" width="856" height="591"/>
+	<SubTexture name="KEVIN Up Note0000" x="0" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0001" x="890" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0002" x="1780" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0003" x="2670" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0004" x="3560" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0005" x="4450" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0006" x="5340" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0007" x="6230" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0008" x="7120" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0009" x="0" y="4317" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0010" x="7120" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0011" x="0" y="4317" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0012" x="7120" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0013" x="0" y="4317" width="888" height="721"/>
+	<SubTexture name="KEVIN Up Note0014" x="7120" y="3594" width="888" height="721"/>
+	<SubTexture name="KEVIN left note0000" x="890" y="4317" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0001" x="1925" y="4317" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0002" x="2960" y="4317" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0003" x="3995" y="4317" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0004" x="5030" y="4317" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0005" x="5030" y="4317" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0006" x="6065" y="4317" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0007" x="7100" y="4317" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0008" x="0" y="5040" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0009" x="1035" y="5040" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0010" x="2070" y="5040" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0011" x="1035" y="5040" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0012" x="2070" y="5040" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0013" x="1035" y="5040" width="1033" height="607"/>
+	<SubTexture name="KEVIN left note0014" x="2070" y="5040" width="1033" height="607"/>
+</TextureAtlas>

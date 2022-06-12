@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HURTNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue hold end0000" x="5" y="5" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="60" y="5" width="50" height="44"/>
+	<SubTexture name="blue0000" x="676" y="658" width="185" height="185" frameX="10" frameY="0" frameWidth="238" frameHeight="235"/>
+	<SubTexture name="green hold end0000" x="5" y="5" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="60" y="5" width="50" height="44"/>
+	<SubTexture name="green0000" x="869" y="649" width="185" height="185" frameX="10" frameY="0" frameWidth="238" frameHeight="235"/>
+	<SubTexture name="purple0000" x="486" y="643" width="185" height="185" frameX="10" frameY="0" frameWidth="238" frameHeight="235"/>
+	<SubTexture name="pruple end hold0000" x="5" y="5" width="50" height="64"/>
+	<SubTexture name="purple hold piece0000" x="60" y="5" width="50" height="44"/>
+	<SubTexture name="red hold end0000" x="5" y="5" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="60" y="5" width="50" height="44"/>
+	<SubTexture name="red0000" x="1063" y="648" width="185" height="185" frameX="10" frameY="0" frameWidth="238" frameHeight="235"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="busao.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="busao0000" x="0" y="0" width="1497" height="933"/>
+	<SubTexture name="busao0001" x="0" y="0" width="1497" height="933"/>
+	<SubTexture name="busao0002" x="1499" y="0" width="1497" height="933"/>
+	<SubTexture name="busao0003" x="1499" y="0" width="1497" height="933"/>
+	<SubTexture name="busao0004" x="0" y="935" width="1497" height="933"/>
+	<SubTexture name="busao0005" x="0" y="935" width="1497" height="933"/>
+	<SubTexture name="busao0006" x="1499" y="935" width="1497" height="933"/>
+	<SubTexture name="busao0007" x="1499" y="935" width="1497" height="933"/>
+	<SubTexture name="busao0008" x="0" y="1870" width="1497" height="933"/>
+	<SubTexture name="busao0009" x="0" y="1870" width="1497" height="933"/>
+	<SubTexture name="busao0010" x="0" y="1870" width="1497" height="933"/>
+	<SubTexture name="busao0011" x="0" y="1870" width="1497" height="933"/>
+	<SubTexture name="busao0012" x="0" y="1870" width="1497" height="933"/>
+	<SubTexture name="busao0013" x="0" y="1870" width="1497" height="933"/>
+	<SubTexture name="busao0014" x="0" y="1870" width="1497" height="933"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+idle 0 0
+hey 80 57
+singDOWN -44 -103
+singRIGHT 90 22
+skeletons 0 -22
+singUP 62 101
+singLEFT 104 12

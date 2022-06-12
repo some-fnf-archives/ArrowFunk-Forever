@@ -1,0 +1,7 @@
+danceRight 0 -9
+danceLeft 0 -9
+singUP -9 112
+singLEFT 136 -2
+singRIGHT -41 -18
+singDOWN 0 -40
+cheer -7 -12

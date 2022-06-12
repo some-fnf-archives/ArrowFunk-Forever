@@ -1,0 +1,56 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "teste, abcdefghijkl\nmnopqrstuvwxyz"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "àáâãäåèéêëìíîïóôöùúûüçñæ"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "1234567890 .,-_!@#$%&*()<>:;+="
+        },
+        {
+            "portrait": "bf",
+            "expression": "smug",
+            "text": "ABCDEFGHIJKLMNOPQ\nRSTUVWXYZ"
+        },
+        {
+            "portrait": "bf",
+            "expression": "smug",
+            "text": "ÀÁÂÃÈÉÌÍÎÓÔÙÚÛ"
+        },
+        {
+            "portrait": "bf",
+            "expression": "smug",
+            "text": "legal né?"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "TESTE DE GRITO!!!",
+            "boxState": "yell",
+            "scale": 1.4
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "teste de\nquebra de\nlinha",
+            "boxState": "normal",
+            "scale": 0.8
+        },
+        {
+            "portrait": "bf",
+            "expression": "smug",
+            "text": "foda!",
+            "speed": 10
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SALSICHA_BOMBADO.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Salsicha Down0000" x="0" y="0" width="1015" height="820" pivotX="-82.3" pivotY="-245.95"/>
+	<SubTexture name="Salsicha Down0001" x="0" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0002" x="1020" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0003" x="2040" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0004" x="2040" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0005" x="3060" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0006" x="3060" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0007" x="4080" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0008" x="4080" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0009" x="5100" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0010" x="5100" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0011" x="6120" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0012" x="6120" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0013" x="6120" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0014" x="6120" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Down0015" x="6120" y="0" width="1015" height="820"/>
+	<SubTexture name="Salsicha Idle0000" x="0" y="825" width="1153" height="913" pivotX="-67.5" pivotY="-152.75"/>
+	<SubTexture name="Salsicha Idle0001" x="0" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0002" x="1158" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0003" x="1158" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0004" x="2316" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0005" x="2316" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0006" x="3474" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0007" x="3474" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0008" x="4632" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0009" x="4632" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0010" x="5790" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0011" x="5790" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0012" x="5790" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0013" x="5790" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Idle0014" x="5790" y="825" width="1153" height="913"/>
+	<SubTexture name="Salsicha Left0000" x="6948" y="825" width="1212" height="913" pivotX="144.1" pivotY="-151"/>
+	<SubTexture name="Salsicha Left0001" x="6948" y="825" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0002" x="0" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0003" x="0" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0004" x="1217" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0005" x="1217" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0006" x="2434" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0007" x="2434" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0008" x="3651" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0009" x="3651" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0010" x="3651" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0011" x="3651" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0012" x="3651" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0013" x="3651" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Left0014" x="3651" y="1743" width="1212" height="913"/>
+	<SubTexture name="Salsicha Right0000" x="4868" y="1743" width="1012" height="993" pivotX="-235.05" pivotY="-81.75"/>
+	<SubTexture name="Salsicha Right0001" x="5885" y="1743" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0002" x="6902" y="1743" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0003" x="6902" y="1743" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0004" x="0" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0005" x="0" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0006" x="1017" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0007" x="1017" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0008" x="2034" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0009" x="2034" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0010" x="2034" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0011" x="2034" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0012" x="2034" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0013" x="2034" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Right0014" x="2034" y="2741" width="1012" height="993"/>
+	<SubTexture name="Salsicha Up0000" x="3051" y="2741" width="975" height="1185" pivotX="-109.5" pivotY="120.3"/>
+	<SubTexture name="Salsicha Up0001" x="3051" y="2741" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0002" x="4031" y="2741" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0003" x="4031" y="2741" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0004" x="5011" y="2741" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0005" x="5011" y="2741" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0006" x="5991" y="2741" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0007" x="5991" y="2741" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0008" x="6971" y="2741" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0009" x="6971" y="2741" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0010" x="0" y="3931" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0011" x="0" y="3931" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0012" x="0" y="3931" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0013" x="0" y="3931" width="975" height="1185"/>
+	<SubTexture name="Salsicha Up0014" x="0" y="3931" width="975" height="1185"/>
+</TextureAtlas>

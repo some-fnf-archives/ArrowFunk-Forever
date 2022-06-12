@@ -1,0 +1,7 @@
+idle 0 0
+tampa 163 16
+singRIGHT 2 -34
+singDOWN 193 -82
+risada 1 -7
+singLEFT 128 -147
+singUP -5 60

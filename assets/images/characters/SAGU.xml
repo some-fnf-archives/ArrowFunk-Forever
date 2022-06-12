@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SAGU.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sagu Beatbox DOWN0000" x="0" y="0" width="509" height="700" pivotX="388.1" pivotY="480.35"/>
+	<SubTexture name="Sagu Beatbox DOWN0001" x="0" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0002" x="514" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0003" x="514" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0004" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0005" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0006" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0007" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0008" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0009" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0010" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0011" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0012" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0013" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0014" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0015" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0016" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0017" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0018" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0019" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0020" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0021" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0022" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0023" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0024" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0025" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0026" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0027" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0028" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0029" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0030" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0031" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0032" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0033" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0034" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0035" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0036" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0037" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0038" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0039" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0040" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0041" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0042" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0043" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0044" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0045" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0046" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0047" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0048" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0049" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0050" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0051" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0052" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0053" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0054" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0055" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0056" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0057" x="1542" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox DOWN0058" x="1028" y="0" width="509" height="700"/>
+	<SubTexture name="Sagu Beatbox UP0000" x="2056" y="0" width="396" height="816" pivotX="372" pivotY="595.65"/>
+	<SubTexture name="Sagu Beatbox UP0001" x="2056" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0002" x="2457" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0003" x="2457" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0004" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0005" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0006" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0007" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0008" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0009" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0010" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0011" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0012" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0013" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0014" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0015" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0016" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0017" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0018" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0019" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0020" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0021" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0022" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0023" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0024" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0025" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0026" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0027" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0028" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0029" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0030" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0031" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0032" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0033" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0034" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0035" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0036" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0037" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0038" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0039" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0040" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0041" x="2858" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Beatbox UP0042" x="3259" y="0" width="396" height="816"/>
+	<SubTexture name="Sagu Sing Note DOWN0000" x="0" y="821" width="590" height="700" pivotX="388.1" pivotY="480.35"/>
+	<SubTexture name="Sagu Sing Note DOWN0001" x="0" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0002" x="595" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0003" x="595" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0004" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0005" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0006" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0007" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0008" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0009" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0010" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0011" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0012" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0013" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0014" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0015" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0016" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0017" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0018" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0019" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0020" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0021" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0022" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0023" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0024" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0025" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0026" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0027" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0028" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0029" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0030" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0031" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0032" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0033" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0034" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0035" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0036" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0037" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0038" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0039" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0040" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0041" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0042" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0043" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0044" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0045" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0046" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0047" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0048" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0049" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0050" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0051" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0052" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0053" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0054" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0055" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0056" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0057" x="1785" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note DOWN0058" x="1190" y="821" width="590" height="700"/>
+	<SubTexture name="Sagu Sing Note LEFT0000" x="2380" y="821" width="500" height="719" pivotX="88.1" pivotY="18.75"/>
+	<SubTexture name="Sagu Sing Note LEFT0001" x="2885" y="821" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0002" x="3390" y="821" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0003" x="0" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0004" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0005" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0006" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0007" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0008" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0009" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0010" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0011" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0012" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0013" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0014" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0015" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0016" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0017" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0018" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0019" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0020" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0021" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0022" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0023" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0024" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0025" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0026" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0027" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0028" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0029" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0030" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0031" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0032" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0033" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0034" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0035" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0036" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0037" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0038" x="1010" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note LEFT0039" x="505" y="1545" width="500" height="719"/>
+	<SubTexture name="Sagu Sing Note RIGHT0000" x="1515" y="1545" width="539" height="770" pivotX="-0.2" pivotY="88.85"/>
+	<SubTexture name="Sagu Sing Note RIGHT0001" x="1515" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0002" x="2059" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0003" x="2059" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0004" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0005" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0006" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0007" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0008" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0009" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0010" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0011" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0012" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0013" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0014" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0015" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0016" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0017" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0018" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0019" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0020" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0021" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0022" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0023" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0024" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0025" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0026" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0027" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0028" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0029" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0030" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0031" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0032" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0033" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0034" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0035" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0036" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0037" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0038" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0039" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0040" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0041" x="2603" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note RIGHT0042" x="3147" y="1545" width="539" height="770"/>
+	<SubTexture name="Sagu Sing Note UP0000" x="3691" y="1545" width="396" height="817" pivotX="372" pivotY="596.4"/>
+	<SubTexture name="Sagu Sing Note UP0001" x="3691" y="1545" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0002" x="0" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0003" x="0" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0004" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0005" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0006" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0007" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0008" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0009" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0010" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0011" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0012" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0013" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0014" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0015" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0016" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0017" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0018" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0019" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0020" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0021" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0022" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0023" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0024" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0025" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0026" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0027" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0028" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0029" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0030" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0031" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0032" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0033" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0034" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0035" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0036" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0037" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0038" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0039" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0040" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0041" x="401" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu Sing Note UP0042" x="802" y="2367" width="396" height="817"/>
+	<SubTexture name="Sagu idle dance0000" x="1203" y="2367" width="417" height="766" pivotX="379.95" pivotY="546.65"/>
+	<SubTexture name="Sagu idle dance0001" x="1203" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0002" x="1625" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0003" x="1625" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0004" x="2047" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0005" x="2047" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0006" x="2469" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0007" x="2469" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0008" x="2891" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0009" x="2891" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0010" x="3313" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0011" x="3313" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0012" x="0" y="3189" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0013" x="0" y="3189" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0014" x="3313" y="2367" width="417" height="766"/>
+	<SubTexture name="Sagu idle dance0015" x="3313" y="2367" width="417" height="766"/>
+</TextureAtlas>

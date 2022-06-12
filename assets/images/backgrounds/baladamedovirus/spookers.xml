@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spookers_virus.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SPEAKERS0000" x="0" y="0" width="2756" height="1001" pivotX="1339.6" pivotY="465.95"/>
+	<SubTexture name="SPEAKERS0001" x="0" y="1003" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0002" x="0" y="1003" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0003" x="0" y="2006" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0004" x="0" y="2006" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0005" x="0" y="3009" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0006" x="0" y="3009" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0007" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0008" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0009" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0010" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0011" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0012" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0013" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0014" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0015" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0016" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0017" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0018" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0019" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0020" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0021" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0022" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0023" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0024" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0025" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0026" x="0" y="4012" width="2756" height="1001"/>
+	<SubTexture name="SPEAKERS0027" x="0" y="4012" width="2756" height="1001"/>
+</TextureAtlas>

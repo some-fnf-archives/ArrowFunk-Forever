@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BARBARA_CHOCOLATE_NIGHT.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BARBARA Dancing Beat0000" x="0" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0001" x="0" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0002" x="595" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0003" x="595" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0004" x="1190" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0005" x="1190" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0006" x="1785" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0007" x="1785" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0008" x="2380" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0009" x="2380" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0010" x="2975" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0011" x="2975" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0012" x="2975" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0013" x="2975" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0014" x="2975" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0015" x="0" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0016" x="0" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0017" x="595" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0018" x="595" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0019" x="1190" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0020" x="1190" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0021" x="1785" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0022" x="1785" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0023" x="2380" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0024" x="2380" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0025" x="2975" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0026" x="2975" y="603" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0027" x="2975" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0028" x="2975" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Dancing Beat0029" x="2975" y="0" width="593" height="601"/>
+	<SubTexture name="BARBARA Shock0000" x="0" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0001" x="0" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0002" x="696" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0003" x="696" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0004" x="1392" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0005" x="1392" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0006" x="2088" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0007" x="2088" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0008" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0009" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0010" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0011" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0012" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0013" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0014" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0015" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0016" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0017" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0018" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0019" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0020" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0021" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0022" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0023" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0024" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0025" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0026" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0027" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0028" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA Shock0029" x="2784" y="1206" width="694" height="596"/>
+	<SubTexture name="BARBARA sad0000" x="3480" y="1206" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0001" x="3480" y="1206" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0002" x="0" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0003" x="0" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0004" x="594" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0005" x="594" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0006" x="1188" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0007" x="1188" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0008" x="1782" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0009" x="1782" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0010" x="594" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0011" x="594" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0012" x="1188" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0013" x="1188" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0014" x="1782" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0015" x="1782" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0016" x="594" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0017" x="594" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0018" x="1188" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0019" x="1188" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0020" x="1782" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0021" x="1782" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0022" x="594" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0023" x="594" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0024" x="1188" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0025" x="1188" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0026" x="1782" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0027" x="1782" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0028" x="594" y="1804" width="592" height="595"/>
+	<SubTexture name="BARBARA sad0029" x="594" y="1804" width="592" height="595"/>
+</TextureAtlas>

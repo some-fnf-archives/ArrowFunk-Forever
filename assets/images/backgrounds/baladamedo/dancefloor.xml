@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dancefloor.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="floor0a0000" x="0" y="0" width="2880" height="1980"/>
+	<SubTexture name="floor1a0000" x="0" y="0" width="2880" height="1980"/>
+	<SubTexture name="floor2a0000" x="2882" y="0" width="2880" height="1980"/>
+	<SubTexture name="floor3a0000" x="0" y="1982" width="2880" height="1980"/>
+	<SubTexture name="floor4a0000" x="2882" y="1982" width="2880" height="1980"/>
+	<SubTexture name="floor5a0000" x="0" y="3964" width="2880" height="1980"/>
+</TextureAtlas>

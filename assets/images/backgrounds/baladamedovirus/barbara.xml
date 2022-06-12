@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="barbara.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceleft0000" x="0" y="0" width="761" height="824" pivotX="198.65" pivotY="532.45"/>
+	<SubTexture name="danceleft0001" x="766" y="0" width="761" height="824"/>
+	<SubTexture name="danceleft0002" x="1532" y="0" width="761" height="824"/>
+	<SubTexture name="danceleft0003" x="2298" y="0" width="761" height="824"/>
+	<SubTexture name="danceleft0004" x="3064" y="0" width="761" height="824"/>
+	<SubTexture name="danceleft0005" x="0" y="829" width="761" height="824"/>
+	<SubTexture name="danceleft0006" x="766" y="829" width="761" height="824"/>
+	<SubTexture name="danceleft0007" x="1532" y="829" width="761" height="824"/>
+	<SubTexture name="danceleft0008" x="2298" y="829" width="761" height="824"/>
+	<SubTexture name="danceleft0009" x="3064" y="829" width="761" height="824"/>
+	<SubTexture name="danceleft0010" x="0" y="3316" width="761" height="824"/>
+	<SubTexture name="danceleft0011" x="766" y="3316" width="761" height="824"/>
+	<SubTexture name="danceleft0012" x="1532" y="3316" width="761" height="824"/>
+	<SubTexture name="danceleft0013" x="2298" y="3316" width="761" height="824"/>
+	<SubTexture name="danceleft0014" x="3064" y="3316" width="761" height="824"/>
+	<SubTexture name="danceright0000" x="0" y="1658" width="761" height="824" pivotX="198.65" pivotY="532.45"/>
+	<SubTexture name="danceright0001" x="766" y="1658" width="761" height="824"/>
+	<SubTexture name="danceright0002" x="1532" y="1658" width="761" height="824"/>
+	<SubTexture name="danceright0003" x="2298" y="1658" width="761" height="824"/>
+	<SubTexture name="danceright0004" x="3064" y="1658" width="761" height="824"/>
+	<SubTexture name="danceright0005" x="0" y="2487" width="761" height="824"/>
+	<SubTexture name="danceright0006" x="766" y="2487" width="761" height="824"/>
+	<SubTexture name="danceright0007" x="1532" y="2487" width="761" height="824"/>
+	<SubTexture name="danceright0008" x="2298" y="2487" width="761" height="824"/>
+	<SubTexture name="danceright0009" x="3064" y="2487" width="761" height="824"/>
+	<SubTexture name="danceright0010" x="0" y="3316" width="761" height="824"/>
+	<SubTexture name="danceright0011" x="766" y="3316" width="761" height="824"/>
+	<SubTexture name="danceright0012" x="1532" y="3316" width="761" height="824"/>
+	<SubTexture name="danceright0013" x="2298" y="3316" width="761" height="824"/>
+	<SubTexture name="danceright0014" x="3064" y="3316" width="761" height="824"/>
+</TextureAtlas>
