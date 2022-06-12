@@ -1,6 +1,6 @@
 # [Arrow Funk Forever](https://github.com/BeastlyGhost/Forever-ArrowFunk-Public)
-while still rather unfinished, here's a version of the Arrow Funk Mod, completely ported to Forever Engine
-expect a full playable and completely finished build soon!
+while still rather unfinished, here's a version of the Arrow Funk Mod, completely ported to Forever Engine --
+expect a completely finished build soon!
 
 ## Current Progress: around 90-95%
 
