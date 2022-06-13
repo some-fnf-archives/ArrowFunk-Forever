@@ -45,7 +45,7 @@ class ClassHUD extends FlxTypedGroup<FlxBasic>
 	public var timeTxt:FlxText;
 
 	//troços pra atualizar o tempo
-	public var updateTime:Bool = true;
+	public var updateTime:Bool = Init.trueSettings.get('Display Timer') ? true : false;
 	var songPercent:Float = 0;
 
 	private var SONG = PlayState.SONG;
@@ -212,18 +212,21 @@ class ClassHUD extends FlxTypedGroup<FlxBasic>
             iconP1.animation.curAnim.curFrame = 0;
         }
 
-		if(updateTime)
+		if (Init.trueSettings.get('Display Timer'))
 		{
-			var curTime:Float = Conductor.songPosition;
-			if(curTime < 0) curTime = 0;
-			songPercent = (curTime / PlayState.songLength);
-	
-			var songCalc:Float = (PlayState.songLength - curTime);
-	
-			var secondsTotal:Int = Math.floor(songCalc / 1000);
-			if(secondsTotal < 0) secondsTotal = 0;
+			if(updateTime)
+			{
+				var curTime:Float = Conductor.songPosition;
+				if(curTime < 0) curTime = 0;
+				songPercent = (curTime / PlayState.songLength);
 		
-			timeTxt.text = FlxStringUtil.formatTime(secondsTotal, false) + ' / ' + FlxStringUtil.formatTime(Math.floor((PlayState.songLength) / 1000), false);
+				var songCalc:Float = (PlayState.songLength - curTime);
+		
+				var secondsTotal:Int = Math.floor(songCalc / 1000);
+				if(secondsTotal < 0) secondsTotal = 0;
+			
+				timeTxt.text = FlxStringUtil.formatTime(secondsTotal, false) + ' / ' + FlxStringUtil.formatTime(Math.floor((PlayState.songLength) / 1000), false);
+			}
 		}
 	}
 
