@@ -72,7 +72,7 @@ class Main extends Sprite
 	public static var framerate:Int = 120; // How many frames per second the game should run at.
 
 	public static var gameVersion:String = '0.3';
-	public static var modVersion:String = '1.5-FE';
+	public static var modVersion:String = '1.5h-FE';
 	
 	public static var doNumberOffset:Bool = false;
 
